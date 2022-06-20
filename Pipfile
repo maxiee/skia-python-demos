@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 skia-python = "*"
+glfw = "*"
+pyopengl = "*"
 
 [dev-packages]
 
